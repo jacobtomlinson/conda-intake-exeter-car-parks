@@ -3,6 +3,6 @@ sources:
     description: Data about the number of tickets sold in Exeter car parks from Exeter City Council (https://exeterdatamill.com/dataset/car-park-tickets-sold)
     driver: csv
     args:
-      urlpath: 'https://exeterdatamill.com/download/car-park-tickets-sold/cf542d64-0dea-4370-9006-a9e5f965ce1a/TickSalesbySiteByDateByHour_20140305-20180717.csv'
+      urlpath: 'https://s3-eu-west-1.amazonaws.com/files.datapress.com/exeter/dataset/car-park-tickets-sold/2018-07-26T10%3A23%3A33.34/TickSalesbySiteByDateByHour_20140305-20180717.csv'
     metadata:
       origin_url: 'https://exeterdatamill.com/download/car-park-tickets-sold/cf542d64-0dea-4370-9006-a9e5f965ce1a/TickSalesbySiteByDateByHour_20140305-20180717.csv'
