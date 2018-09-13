@@ -4,7 +4,7 @@ This is an example intake catalog using open data about [car park ticket sales i
 
 This data is from the [Exeter Data Mill](https://exeterdatamill.com).
 
-This repository is supporting material for [this tutorial](https://www.informaticslab.co.uk/home/2018/9/13/tutorial-how-to-build-an-intake-catalog) on packaging datasets as conda packages.
+This repository is supporting material for [a tutorial](https://www.informaticslab.co.uk/home/2018/9/13/tutorial-how-to-build-an-intake-catalog) on packaging datasets as conda packages.
 
 ## Building
 
