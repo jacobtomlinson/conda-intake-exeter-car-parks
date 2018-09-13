@@ -6,6 +6,12 @@ This data is from the [Exeter Data Mill](https://exeterdatamill.com).
 
 This repository is supporting material for [a tutorial](https://www.informaticslab.co.uk/home/2018/9/13/tutorial-how-to-build-an-intake-catalog) on packaging datasets as conda packages.
 
+## Installation
+
+```
+conda install -c jacobtomlinson data-exeter-car-park-tickets-sold
+```
+
 ## Building
 
 ```
