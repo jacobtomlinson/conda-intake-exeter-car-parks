@@ -1,5 +1,5 @@
 sources:
-  car-park-tickets-sold:
+  car_park_tickets_sold:
     description: Data about the number of tickets sold in Exeter car parks from Exeter City Council (https://exeterdatamill.com/dataset/car-park-tickets-sold)
     driver: csv
     args:
