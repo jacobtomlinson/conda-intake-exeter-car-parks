@@ -1,0 +1,19 @@
+# meta.yaml
+package:
+  version: '1.0.0'
+  name: 'data-exeter-car-park-tickets-sold'
+
+build:
+  number: 0
+  noarch: generic
+
+requirements:
+  run:
+    - intake
+  build: []
+
+about:
+  description: Data about the number of tickets sold in Exeter car parks from Exeter City Council (https://exeterdatamill.com/dataset/car-park-tickets-sold)
+  license: OGL v3
+  license_family: OGL
+  summary: Data about Exeter car park ticket sales
