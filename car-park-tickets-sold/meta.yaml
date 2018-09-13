@@ -1,6 +1,6 @@
 # meta.yaml
 package:
-  version: '1.0.1'
+  version: '1.0.2'
   name: 'data-exeter-car-park-tickets-sold'
 
 build:
