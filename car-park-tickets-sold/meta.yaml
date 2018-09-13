@@ -15,5 +15,5 @@ requirements:
 about:
   description: Data about the number of tickets sold in Exeter car parks from Exeter City Council (https://exeterdatamill.com/dataset/car-park-tickets-sold)
   license: OGL v3
-  license_family: OGL
+  license_family: OTHER
   summary: Data about Exeter car park ticket sales
